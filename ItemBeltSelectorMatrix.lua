@@ -33,5 +33,6 @@ while true do
 				end
 			end
 		end
-	end	
+	end
+	sleep(0.1)
 end
